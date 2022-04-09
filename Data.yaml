@@ -1,0 +1,6 @@
+train: ../plants-train-dataset/images/
+val: ../plants-train-dataset/images/
+# number of classes
+nc: 3
+# class names
+names: [ 'Aglaonema', 'Rubber', 'Spear' ]
