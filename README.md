@@ -7,5 +7,5 @@ Data Plant 'Aglaonema', 'Rubber', 'Spear'
 - ยางอินเดีย (Rubber)
 - ว่านงาช้าง (Spear)
 
-Credit by: Dr.Karn
+Credit by: Dr.Karn - 
 shorturl.at/fwBC5
