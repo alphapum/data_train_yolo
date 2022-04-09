@@ -19,7 +19,7 @@ module load cuDNN/8.0.5.39-CUDA-11.1.1
 
 cd yolov5
 
-~/miniconda3/envs/torch/bin/python train.py --epochs 100 --data ../data_train_yolo/Data.yaml  --cfg  ../yolov5s.yaml --weights ../yolov5s.pt --name expert  --img 512 --cache --evolve
+~/miniconda3/envs/torch/bin/python train.py --epochs 100 --data ../data_train_yolo/Data.yaml  --cfg  ../yolov5s.yaml --weights ../yolov5s.pt --name expert  --img 512 --cache --evolve 10
 
 
 
